@@ -31,7 +31,8 @@ Type in the question and *your* answer, and AI will check if it's correct or not
 Speak out the AI-generated summaries in different languages and accents
 
 ### ⚙ More Settings
-… More AI Settings such as; AI Language Model Settings, Summary Tone Settings and more!
+More AI Settings such as; AI Language Model Settings, Summary Tone Settings and more!
 
 ## Other Information
-🔨 Built with SwiftUI for iOS.
+ Built with SwiftUI for iOS.
+🖥️ Built with Python for Windows.
