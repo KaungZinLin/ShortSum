@@ -20,7 +20,18 @@ Search images from keywords
 ### 🔑 An OpenAI API Key
 An OpenAI API Key is used for connecting with OpenAI and generating your summaries
 
+## Upcoming Features
+### 📺 YouTube Video Summarizer
+Summarize a YouTube video in seconds with the power of AI
 
+### 🔄 Recheck
+Type in the question and *your* answer, and AI will check if it's correct or not and give you a rating out of 10
+
+### 🗣️ TTS (Text-to-Speech)
+Speak out the AI-generated summaries in different languages and accents
+
+### ⚙ More Settings
+… More AI Settings such as; AI Language Model Settings, Summary Tone Settings and more!
 
 ## Other Information
-Built with SwiftUI for iOS.
+🔨 Built with SwiftUI for iOS.
