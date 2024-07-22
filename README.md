@@ -1,4 +1,4 @@
-![NewAppIcon](https://github.com/user-attachments/assets/42777655-1be0-44a0-aeed-808a30b58eb5)
+
 # ShortSum
 
 An AI-powered app that makes studying easier and faster
