@@ -35,5 +35,5 @@ Speak out the AI-generated summaries in different languages and accents
 More AI Settings such as; AI Language Model Settings, Summary Tone Settings and more!
 
 ## Other Information
- Built with SwiftUI for iOS.
-🖥️ Built with Python for Windows.
+ Built with SwiftUI for iOS, iPadOS and macOS.
+\n🖥️ Built with Python for Windows.
