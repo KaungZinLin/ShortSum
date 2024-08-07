@@ -32,7 +32,7 @@ An OpenAI API Key is used for connecting with OpenAI and generating your summari
 Summarize a YouTube video in seconds with the power of AI
 
 ### ⚙ More Settings
-More AI Settings such as; AI Language Model Settings, Summary Tone Settings and more!
+More AI Settings such as; Summary Tone Settings and more!
 
 ## Other Information
  Built with SwiftUI for iOS, iPadOS and macOS.
