@@ -1,0 +1,426 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "- %@" : {
+
+    },
+    "%@" : {
+
+    },
+    "🇲🇲 Translated to Burmese" : {
+
+    },
+    "25, 6, 2" : {
+
+    },
+    "100" : {
+
+    },
+    "200" : {
+
+    },
+    "About" : {
+
+    },
+    "Add an OpenAI API Key" : {
+
+    },
+    "Add OpenAI API Key" : {
+
+    },
+    "AI Model" : {
+
+    },
+    "AlertKit" : {
+
+    },
+    "Answer" : {
+
+    },
+    "Appearance" : {
+
+    },
+    "Article Summarizer" : {
+
+    },
+    "Article Summarizer (Beta)" : {
+
+    },
+    "Artificial intelligence" : {
+
+    },
+    "Ask" : {
+
+    },
+    "Ask AI" : {
+
+    },
+    "Ask Questions" : {
+
+    },
+    "Auto-Detect" : {
+
+    },
+    "Bad Handwriting Detector" : {
+
+    },
+    "By Kaung Zin Lin, Thura Ye Yint and Thuta Htet" : {
+
+    },
+    "Cannot Detect!" : {
+
+    },
+    "Cannot generate your answer!" : {
+
+    },
+    "Cannot Generate!" : {
+
+    },
+    "Cannot summarize" : {
+
+    },
+    "Cannot Summarize!" : {
+
+    },
+    "Change Interface Language" : {
+
+    },
+    "Changes to the Language Selection Detected" : {
+
+    },
+    "Changes to the OpenAI API Key Detected" : {
+
+    },
+    "Check" : {
+
+    },
+    "Check and Find HCF/LCM" : {
+
+    },
+    "Check and HCF/LCM" : {
+
+    },
+    "Check Prime" : {
+
+    },
+    "Choose Translation Language" : {
+
+    },
+    "Close" : {
+
+    },
+    "Decent effort! You're halfway there. Some more practice will help you improve." : {
+
+    },
+    "Detect" : {
+
+    },
+    "Detected Results" : {
+
+    },
+    "e" : {
+
+    },
+    "Exam Prep" : {
+
+    },
+    "Excellent! You're absolutely ready for the exams. Keep up the great work!" : {
+
+    },
+    "Failed! Retry." : {
+
+    },
+    "Find Non-Prime Numbers" : {
+
+    },
+    "Find Prime Numbers" : {
+
+    },
+    "Find Primes" : {
+
+    },
+    "Find Primes/Non-Primes" : {
+
+    },
+    "Find the Highest Common Factors" : {
+
+    },
+    "Find the Lowest Common Multiple" : {
+
+    },
+    "For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button." : {
+
+    },
+    "g" : {
+
+    },
+    "G" : {
+
+    },
+    "Good work! With a little more focus on the details, you'll be in great shape." : {
+
+    },
+    "GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo." : {
+
+    },
+    "Great job! You're almost there. A bit more polish and you'll be perfect!" : {
+
+    },
+    "Image Search" : {
+
+    },
+    "Image Summarizer" : {
+
+    },
+    "Included Libraries" : {
+
+    },
+    "It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties." : {
+
+    },
+    "Joke of the Day (by GoodHouseKeeping)" : {
+
+    },
+    "Kaung Zin Lin" : {
+
+    },
+    "l" : {
+
+    },
+    "Language" : {
+
+    },
+    "Language Selection" : {
+
+    },
+    "Language, Region, and Translations" : {
+
+    },
+    "Loading..." : {
+
+    },
+    "Made with ❤️ and 🍀 in Burma 🇲🇲" : {
+
+    },
+    "Math" : {
+
+    },
+    "Nice attempt! You're on the right track, but there's room for some fine-tuning." : {
+
+    },
+    "No OpenAI API Key detected" : {
+
+    },
+    "No OpenAI API Key detected!" : {
+
+    },
+    "No OpenAI API Key Detected!" : {
+
+    },
+    "No Scans" : {
+
+    },
+    "Not bad, but there's definitely room for improvement. Keep working on it!" : {
+
+    },
+    "o" : {
+
+    },
+    "OK" : {
+
+    },
+    "OpenAI" : {
+
+    },
+    "OpenAI API Key" : {
+
+    },
+    "OpenAI API Key:" : {
+
+    },
+    "Original Question:" : {
+
+    },
+    "Original Website" : {
+
+    },
+    "Other Information" : {
+
+    },
+    "Please fill in all the fields" : {
+
+    },
+    "Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!" : {
+
+    },
+    "Please restart the app to apply changes" : {
+
+    },
+    "Please restart the app to apply changes across the app" : {
+
+    },
+    "Please Restart the App to Apply the Changes" : {
+
+    },
+    "Quick Info & Visuals" : {
+
+    },
+    "Quote of the Day" : {
+
+    },
+    "Ready to Detect" : {
+
+    },
+    "Ready to Summarize" : {
+
+    },
+    "Recheck" : {
+
+    },
+    "Restart Now" : {
+
+    },
+    "Results" : {
+
+    },
+    "Results will appear here." : {
+
+    },
+    "Save" : {
+
+    },
+    "Scan" : {
+
+    },
+    "Scan a paper that contains the paragraph" : {
+
+    },
+    "Scan a paper that is badly-written" : {
+
+    },
+    "Scanned Results" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Share" : {
+
+    },
+    "ShortSum" : {
+
+    },
+    "ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info." : {
+
+    },
+    "ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. " : {
+
+    },
+    "sk-test-12345A..." : {
+
+    },
+    "Study Smarter with AI" : {
+
+    },
+    "Summarize" : {
+
+    },
+    "Summarized Results" : {
+
+    },
+    "Summarized Results will appear here." : {
+
+    },
+    "Summary" : {
+
+    },
+    "SwiftSoup" : {
+
+    },
+    "SwiftyTranslate" : {
+
+    },
+    "Text-to-Speech" : {
+
+    },
+    "The Soviet Union failed..." : {
+
+    },
+    "Theme" : {
+
+    },
+    "There's a lot to work on here. Keep studying and practicing, you can do it!" : {
+
+    },
+    "Today" : {
+
+    },
+    "Translations" : {
+
+    },
+    "Translations powered by " : {
+
+    },
+    "Type in the ending range" : {
+
+    },
+    "Type in the starting range" : {
+
+    },
+    "Type in two or more numbers" : {
+
+    },
+    "Uni.add-api-key-open-string" : {
+
+    },
+    "Updates to the AI Language Model Detected!" : {
+
+    },
+    "Version 1.0 (Stable)" : {
+
+    },
+    "Very good effort! You're doing well, just a few minor improvements needed." : {
+
+    },
+    "Warning(s)" : {
+
+    },
+    "What's the article link?" : {
+
+    },
+    "Why did the Soviet Union fail?" : {
+
+    },
+    "YOU GOT " : {
+
+    },
+    "You're not connected to the internet!" : {
+
+    },
+    "You're Offline" : {
+
+    },
+    "You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!" : {
+
+    },
+    "Your Answer" : {
+
+    },
+    "Your Answer:" : {
+
+    },
+    "Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.\n\nIf you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key." : {
+
+    },
+    "Your Question" : {
+
+    },
+    "Your Results" : {
+
+    }
+  },
+  "version" : "1.0"
+}

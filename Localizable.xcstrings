@@ -1,0 +1,1540 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " "
+          }
+        }
+      }
+    },
+    "- %@" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "- %@"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "🇨🇳 Translated to Chinese (Simplified)" : {
+
+    },
+    "🇰🇷 Translated to Korean" : {
+
+    },
+    "🇲🇲 Translated to Burmese" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🇲🇲 Translated to Burmese"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "🇲🇲 Translated to Burmese"
+          }
+        }
+      }
+    },
+    "25, 6, 2" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "၂၅၊ ၆၊ ၂"
+          }
+        }
+      }
+    },
+    "100" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "၁၀၀"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一百"
+          }
+        }
+      }
+    },
+    "200" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "၂၀၀"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "二百"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အက်ပ်အကြောင်း"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于"
+          }
+        }
+      }
+    },
+    "Add an OpenAI API Key" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API ကီးတစ်ခုထည့်ပါ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加 OpenAI API 密钥"
+          }
+        }
+      }
+    },
+    "Add OpenAI API Key" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API ကီးထည့်ပါ။"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加 OpenAI API 密钥"
+          }
+        }
+      }
+    },
+    "AI Model" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Model"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人工智能模型"
+          }
+        }
+      }
+    },
+    "AlertKit" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AlertKit"
+          }
+        }
+      }
+    },
+    "Answer" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အဖြေ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "答案"
+          }
+        }
+      }
+    },
+    "Appearance" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အက်ပ်ပုံပန်းသဏ္ဍာန်"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "花形狀"
+          }
+        }
+      }
+    },
+    "Article Summarizer" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆောင်းပါးအကျဉ်းချုပ်ခြင်း"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文章摘要"
+          }
+        }
+      }
+    },
+    "Article Summarizer (Beta)" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆောင်းပါးအကျဉ်းချုပ်ခြင်း"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文章摘要"
+          }
+        }
+      }
+    },
+    "Artificial intelligence" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မှတ်ဉာဏ်တု (AI)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記憶 (AI)"
+          }
+        }
+      }
+    },
+    "Ask" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မေးမည်"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "会问"
+          }
+        }
+      }
+    },
+    "Ask AI" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI ကိုမေးပါ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "问人工智能"
+          }
+        }
+      }
+    },
+    "Ask Questions" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မေးခွန်းများမေးခြင်း"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提问"
+          }
+        }
+      }
+    },
+    "Auto-Detect" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အလိုအလျောက်"
+          }
+        }
+      }
+    },
+    "Bad Handwriting Detector" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "လက်ရေးဆိုးကြည့်ခြင်း"
+          }
+        }
+      }
+    },
+    "By Kaung Zin Lin, Thura Ye Yint and Thuta Htet" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "By Kaung Zin Lin, Thura Ye Yint and Thuta Htet"
+          }
+        }
+      }
+    },
+    "Cannot Detect!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရှာ၍မရပါ။"
+          }
+        }
+      }
+    },
+    "Cannot generate your answer!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်အဖြေကို မဖန်တီးနိုင်ပါ။"
+          }
+        }
+      }
+    },
+    "Cannot Generate!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အဖြေမထွက်နိုင်ပါ။"
+          }
+        }
+      }
+    },
+    "Cannot summarize" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်၍ မရပါ။"
+          }
+        }
+      }
+    },
+    "Cannot Summarize!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်၍ မရပါ။"
+          }
+        }
+      }
+    },
+    "Change Interface Language" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Interface ဘာသာစကားကို ပြောင်းပါ"
+          }
+        }
+      }
+    },
+    "Changes to the Language Selection Detected" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား ရွေးချယ်မှုတွင် အပြောင်းအလဲများကို တွေ့ရှိထားသည်"
+          }
+        }
+      }
+    },
+    "Changes to the OpenAI API Key Detected" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API ကီးတွင် ပြောင်းလဲမှုများကို တွေ့ရှိထားသည်။"
+          }
+        }
+      }
+    },
+    "Check" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စစ်ဆေးမည်"
+          }
+        }
+      }
+    },
+    "Check and Find HCF/LCM" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘ.ဆ.ကနှင့် ဘ.ဆ.င ရှာခြင်း"
+          }
+        }
+      }
+    },
+    "Check and HCF/LCM" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘ.ဆ.ကနှင့် ဘ.ဆ.င ရှာခြင်း"
+          }
+        }
+      }
+    },
+    "Check Prime" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သုဒ္ဓကိန်းဟုတ်မဟုတ်စစ်ဆေးမည်"
+          }
+        }
+      }
+    },
+    "Choose Translation Language" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာပြန်စကားကို ရွေးချယ်ပါ"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပိတ်မည်"
+          }
+        }
+      }
+    },
+    "Decent effort! You're halfway there. Some more practice will help you improve." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်လျော်သောအားထုတ်မှု။ မင်းအဲဒီမှာ လမ်းတစ်ဝက်ရောက်နေပြီ။ နောက်ထပ် အလေ့အကျင့်အချို့က သင့်ကို တိုးတက်အောင် ကူညီပေးပါလိမ့်မယ်။"
+          }
+        }
+      }
+    },
+    "Detect" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရှာမည်"
+          }
+        }
+      }
+    },
+    "Detected Results" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "တွေ့ရှိသောရလဒ်များ"
+          }
+        }
+      }
+    },
+    "e" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "e"
+          }
+        }
+      }
+    },
+    "Exam Prep" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စားမေးပွဲအတွက် ပြင်ဆင်ခြင်း"
+          }
+        }
+      }
+    },
+    "Excellent! You're absolutely ready for the exams. Keep up the great work!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အရမ်းကောင်းတယ် စာမေးပွဲအတွက် အဆင်သင့်ဖြစ်နေပါပြီ။"
+          }
+        }
+      }
+    },
+    "Failed! Retry." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မအောင်မြင်။ ပြန်ကြိုးစားပါ။"
+          }
+        }
+      }
+    },
+    "Find Non-Prime Numbers" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆခွဲကိန်းရှာမည်"
+          }
+        }
+      }
+    },
+    "Find Prime Numbers" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သုဒ္ဓကိန်းရှာမည်"
+          }
+        }
+      }
+    },
+    "Find Primes" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သုဒ္ဓကိန်းရှာခြင်း"
+          }
+        }
+      }
+    },
+    "Find Primes/Non-Primes" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သုဒ္ဓကိန်းရှာခြင်း"
+          }
+        }
+      }
+    },
+    "Find the Highest Common Factors" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကြီးဆုံးဘုံဆခွဲကိန်းရှာမည်"
+          }
+        }
+      }
+    },
+    "Find the Lowest Common Multiple" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အငယ်ဆုံးဘုံဆတိုးကိန်းရှာမည်"
+          }
+        }
+      }
+    },
+    "For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကျွန်ုပ်တို့ မပံ့ပိုးနိုင်သော ဘာသာစကားများအတွက် AI အတွက် သင့်မက်ဆေ့ချ်ကို အင်္ဂလိပ်သို့ ပြောင်းရန် Google Translate ကို အသုံးပြုပြီး ပြန်ကြားချက်အတွက် သင့်ဘာသာစကားသို့ ပြန်သွားပါမည်။ ဤခလုတ်ကို အသုံးပြု၍ AI အတွက် သင်အလိုရှိသော ဘာသာစကားကို သင်ရွေးချယ်နိုင်ပါသည်။"
+          }
+        }
+      }
+    },
+    "g" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "g"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "g"
+          }
+        }
+      }
+    },
+    "G" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "G"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "G"
+          }
+        }
+      }
+    },
+    "Good work! With a little more focus on the details, you'll be in great shape." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အသေးစိတ်အချက်များအပေါ်အနည်းငယ်ပိုအာရုံစိုက်ခြင်းဖြင့်သင်ကောင်းမွန်သောပုံစံဖြစ်လာလိမ့်မည်။"
+          }
+        }
+      }
+    },
+    "GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GPT-3.5 Turbo သည် ယေဘူယျအသုံးပြုရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ GPT-4 သည် အဆင့်မြင့်ဆုံးနှင့် စျေးအကြီးဆုံး မော်ဒယ်ဖြစ်ပြီး GPT-4o သည် GPT-3.5 Turbo ထက် ပိုစွမ်းဆောင်နိုင်သော စျေးပိုသက်သာသော အစားထိုးကို မော်ဒယ်တစ်ခုဖြစ်သည်။"
+          }
+        }
+      }
+    },
+    "Great job! You're almost there. A bit more polish and you'll be perfect!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "နည်းနည်းပိုအရောင်တင်ပြီး ပြီးပြည့်စုံသွားပါလိမ့်မယ်။"
+          }
+        }
+      }
+    },
+    "Image Search" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရုပ်ပုံရှာခြင်း"
+          }
+        }
+      }
+    },
+    "Image Summarizer" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပုံအကျဉ်းချုပ်ခြင်း"
+          }
+        }
+      }
+    },
+    "Included Libraries" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Included Libraries"
+          }
+        }
+      }
+    },
+    "It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဒါကို သင် ရုန်းကန်နေတယ်ဆိုတာ ရှင်းပါတယ်။ သင်ဘယ်မှာအခက်အခဲတွေရှိနေလဲဆိုတာ ဖော်ထုတ်ကြည့်ရအောင်။"
+          }
+        }
+      }
+    },
+    "Joke of the Day (by GoodHouseKeeping)" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Joke of the Day (by GoodHouseKeeping)"
+          }
+        }
+      }
+    },
+    "Kaung Zin Lin" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kaung Zin Lin"
+          }
+        }
+      }
+    },
+    "Khant Si Aung" : {
+
+    },
+    "l" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "l"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား"
+          }
+        }
+      }
+    },
+    "Language Selection" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား ရွေးချယ်မှု"
+          }
+        }
+      }
+    },
+    "Language, Region, and Translations" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား၊ ဒေသနှင့် ဘာသာပြန်ဆိုမှုများ"
+          }
+        }
+      }
+    },
+    "Loading..." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Loading လုပ်နေသည်…"
+          }
+        }
+      }
+    },
+    "Made with ❤️ and 🍀 in Burma 🇲🇲" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made with ❤️ and 🍀 in Burma 🇲🇲"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made with ❤️ and 🍀 in Burma 🇲🇲"
+          }
+        }
+      }
+    },
+    "Math" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်္ချာ"
+          }
+        }
+      }
+    },
+    "Myat Min Thu" : {
+
+    },
+    "Nice attempt! You're on the right track, but there's room for some fine-tuning." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အလွန်ကောင်းသောကြိုးစားအားထုတ်မှု။ သင်ကောင်းမွန်စွာလုပ်ဆောင်နိုင်သည်၊ တိုးတက်မှုအနည်းငယ်သာလိုအပ်ပါတော့သည်။"
+          }
+        }
+      }
+    },
+    "No OpenAI API Key detected" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API Key မတွေ့ပါ။"
+          }
+        }
+      }
+    },
+    "No OpenAI API Key detected!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API Key မတွေ့ပါ။"
+          }
+        }
+      }
+    },
+    "No OpenAI API Key Detected!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API Key မတွေ့ပါ။"
+          }
+        }
+      }
+    },
+    "No Scans" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan ဖတ်ထားသောစာရွက်များမရှိ"
+          }
+        }
+      }
+    },
+    "Not bad, but there's definitely room for improvement. Keep working on it!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မဆိုးပါဘူး။ သို့သော် အနည်းငယ်တိုးတက်မှုလိုအပ်ပါတယ်၊ ဆက်လက်ကြိုးစားပါ။"
+          }
+        }
+      }
+    },
+    "o" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "o"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အိုကေ"
+          }
+        }
+      }
+    },
+    "OpenAI" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI"
+          }
+        }
+      }
+    },
+    "OpenAI API Key" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API Key"
+          }
+        }
+      }
+    },
+    "OpenAI API Key:" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OpenAI API Key:"
+          }
+        }
+      }
+    },
+    "Original Question:" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မူရင်းမေးခွန်း"
+          }
+        }
+      }
+    },
+    "Original Website" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မူရင်းဝဘ်ဆိုဒ်"
+          }
+        }
+      }
+    },
+    "Other Information" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other Information"
+          }
+        }
+      }
+    },
+    "Please fill in all the fields" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကွက်လပ်အားလုံးကို ဖြည့်ပါ"
+          }
+        }
+      }
+    },
+    "Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သတိ- ဤရမှတ်သည် သင်၏နားလည်မှုကို ယခုစစ်ဆေးရန်အတွက်သာဖြစ်သည်။ စာမေးပွဲများတွင် အမှတ်ကောင်းများရရှိရန် အားလုံးကို မှန်ကန်စွာဖြေဆိုရန် လိုအပ်ပါသည်။ သင် အပြည့်အဝပြင်ဆင်ထားကြောင်း သေချာစေရန် ဆက်လက်လေ့ကျင့်ပါ။"
+          }
+        }
+      }
+    },
+    "Please restart the app to apply changes" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Please restart the app to apply changes across the app" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Please Restart the App to Apply the Changes" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Quick Info & Visuals" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "လျင်မြန်သော အချက်အလက်"
+          }
+        }
+      }
+    },
+    "Quote of the Day" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "နေ့၏ကိုးကား"
+          }
+        }
+      }
+    },
+    "Ready to Detect" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ထောက်လှမ်းရန်အဆင်သင့်ဖြစ်ပါပြီ"
+          }
+        }
+      }
+    },
+    "Ready to Summarize" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်ရန် အဆင်သင့်ဖြစ်ပါပြီ"
+          }
+        }
+      }
+    },
+    "Recheck" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြန်လည်စစ်ဆေးခြင်း"
+          }
+        }
+      }
+    },
+    "Restart Now" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ယခု ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Results" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရလဒ်များ"
+          }
+        }
+      }
+    },
+    "Results will appear here." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရလဒ်များ ဤနေရာတွင် ပေါ်လာပါမည်။"
+          }
+        }
+      }
+    },
+    "Save" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သိမ်းဆည်းမည်"
+          }
+        }
+      }
+    },
+    "Scan" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan ဖတ်မည်"
+          }
+        }
+      }
+    },
+    "Scan a paper that contains the paragraph" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စာပိုဒ်ပါသောစာရွက်ကို Scan ဖတ်ပါ"
+          }
+        }
+      }
+    },
+    "Scan a paper that is badly-written" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "လက်ရေးဆိုးဖြင့်ရေးထားသောစာရွက်ကို Scan ဖတ်ပါ"
+          }
+        }
+      }
+    },
+    "Scanned Results" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စကင်န်ဖတ်ထားသော ရလဒ်များ"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ချိန်ညှိရန်နေရာ"
+          }
+        }
+      }
+    },
+    "Share" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မျှဝေပါမည်"
+          }
+        }
+      }
+    },
+    "ShortSum" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ShortSum"
+          }
+        }
+      }
+    },
+    "ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ShortSum သည် OpenAI ၏ ChatGPT ပေါ်တွင် အားကိုးသည်။ ChatGPT သည် အမှားလုပ်မိနိုင်သည်။ အရေးကြီးသောအချက်အလက်ကိုကြည့်ပါ။"
+          }
+        }
+      }
+    },
+    "ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. " : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ShortSum သည် AI ၏ထွက်ရှိမှုအပေါ်အခြေခံ၍ Text-to-Speech မှစကားပြောဘာသာစကားနှင့် လေယူလေသိမ်းတို့ကို အလိုအလျောက်ရှာဖွေပြီး အသုံးပြုမည်ဖြစ်သည်။"
+          }
+        }
+      }
+    },
+    "sk-test-12345A..." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "sk-test-12345A..."
+          }
+        }
+      }
+    },
+    "Study Smarter with AI" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI ဖြင့် ပိုမိုစမတ်ကျစွာ လေ့လာပါ"
+          }
+        }
+      }
+    },
+    "Summarize" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်မည်"
+          }
+        }
+      }
+    },
+    "Summarized Results" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်ရလဒ်များ"
+          }
+        }
+      }
+    },
+    "Summarized Results will appear here." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်ရလဒ်များ ဤနေရာတွင် ပေါ်လာပါမည်။"
+          }
+        }
+      }
+    },
+    "Summary" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကျဉ်းချုပ်"
+          }
+        }
+      }
+    },
+    "SwiftSoup" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftSoup"
+          }
+        }
+      }
+    },
+    "SwiftyTranslate" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SwiftyTranslate"
+          }
+        }
+      }
+    },
+    "Text-to-Speech" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text-to-Speech"
+          }
+        }
+      }
+    },
+    "The Soviet Union failed..." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆိုဗီယက်ယူနီယံ မအောင်မြင်..."
+          }
+        }
+      }
+    },
+    "Theme" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အပြင်အဆင်"
+          }
+        }
+      }
+    },
+    "There's a lot to work on here. Keep studying and practicing, you can do it!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကြိုးစားရန်အများကြီးရှိပါသေးတယ်။ ဆက်လက်လေ့လာပြီးလေ့ကျင့်ပါ၊ သင်လုပ်နိုင်ပါတယ်။\n"
+          }
+        }
+      }
+    },
+    "Today" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ယနေ့"
+          }
+        }
+      }
+    },
+    "Translations" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာပြန်များ"
+          }
+        }
+      }
+    },
+    "Translations powered by " : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Translations powered by"
+          }
+        }
+      }
+    },
+    "Type in the ending range" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆုံးသော ကဏန်းကိုရိုက်ထည့်ပါ"
+          }
+        }
+      }
+    },
+    "Type in the starting range" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စာသော ကဏန်းကိုရိုက်ထည့်ပါ"
+          }
+        }
+      }
+    },
+    "Type in two or more numbers" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "နှစ်ခု (သို့) နှစ်ခုထက်ပိုသော ကဏန်းကိုရိုက်ထည့်ပါ"
+          }
+        }
+      }
+    },
+    "Updates to the AI Language Model Detected!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AI Language Model အပ်ဒိတ်များကို တွေ့ရှိသည်။"
+          }
+        }
+      }
+    },
+    "Version 1.0 (Stable)" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version 1.0 (Stable)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version 1.0 (Stable)"
+          }
+        }
+      }
+    },
+    "Very good effort! You're doing well, just a few minor improvements needed." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကြိုးစားမှုကောင်းပါတယ်။ အနည်းကြိုးစာရန်သာလိုပါတော့သည်။\n"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\\"
+          }
+        }
+      }
+    },
+    "Warning(s)" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သတိပေးချက်(များ)"
+          }
+        }
+      }
+    },
+    "What's the article link?" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆောင်းပါးလင့်ခ်က ဘာလဲ"
+          }
+        }
+      }
+    },
+    "Why did the Soviet Union fail?" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆိုဗီယက်ယူနီယံ ဘာကြောင့် ကျဆုံးခဲ့ရတာလဲ။"
+          }
+        }
+      }
+    },
+    "YOU GOT " : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်ရှိသောအမှတ်"
+          }
+        }
+      }
+    },
+    "You're not connected to the internet!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်သည် အင်တာနက်နှင့် ချိတ်ဆက်မထားပါ။"
+          }
+        }
+      }
+    },
+    "You're Offline" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်သည် အော့ဖ်လိုင်းဖြစ်နေသည်"
+          }
+        }
+      }
+    },
+    "You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်စတင်လိုက်ပြီ၊ သို့သော် ကြိုးစားရန်လိုအပ်ပါတယ်၊ လက်မလျော့ပါနဲ့။"
+          }
+        }
+      }
+    },
+    "Your Answer" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်အဖြေ"
+          }
+        }
+      }
+    },
+    "Your Answer:" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်အဖြေ"
+          }
+        }
+      }
+    },
+    "Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.\n\nIf you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key." : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်၏ OpenAI API Key သည် သင့် iPhone တွင်သာ သိမ်းထားပြီး မှတ်ဉာဏ်တု (AI) Feature များအလုပ်လုပ်ရာတွင်သာ အသုံးပြုသည်။\n\nသင့်၏ OpenAI API Key ကို ဖျက်လိုပါက အထက်ရှိ စာရိုက်ထည့်ရန်နေရာတွေ ကျပန်းစာကားလုံးများ (ဥပမာ - aBXC) သာရိုက်ထည့်ပါ။ အဟောင်း API Key သည် အလိုလျှောက်ပျက်သွားပြမည်။"
+          }
+        }
+      }
+    },
+    "Your Question" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်မေးခွန်း"
+          }
+        }
+      }
+    },
+    "Your Results" : {
+      "localizations" : {
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင်၏ရလဒ်များ"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,136 @@
+// 主視圖
+"MainView.home-string" = "Home";
+"MainView.settings-string" = "設定";
+
+// 通用
+"Uni.feature-unsupported-mac-string" = "此功能在 macOS 上不可用";
+"Uni.no-internet-warning-string" = "沒有網際網路連線！";
+"Uni.no-text-detect-string" = "請填寫所有欄位！";
+"Uni.no-text-from-scan-string" = "在圖像中沒有偵測到文字";
+"Uni.example-results-string" = "樣本結果*";
+"Uni.no-api-string" = "未偵測到 OpenAI API 金鑰！";
+"Uni.saved-success-string" = "保存成功！現在可以安全退出此頁面並正常使用應用程式";
+"Uni.add-api-key-open-string" = "添加 OpenAI AI 密鑰";
+"Uni.no-special-features" = "您所在的地區沒有可用的特殊功能";
+"Uni.updated-api-key-string" = "偵測到 OpenAI API 金鑰的變更";
+"Uni.pls-restart-string" = "重新啟動應用程式以在整個應用程式中套用變更";
+"Uni.restart-now-string" = "立即重新啟動";
+"Uni.updated-translation-language" = "偵測到翻譯語言變更";
+
+// 首頁檢視
+"HomeView.welcome-to-string" = "WELCOME TO";
+"HomeView.app-name-string" = "ShortSum";
+"HomeView.short-description-string" = "Study Smarter and Faster with AI";
+"HomeView.section-one-string-main" = "Begin a New Study Session";
+"HomeView.image-summarizer-string" = "Image Summarizer";
+"HomeView.youtube-summarizer-string" = "YouTube Summarizer";
+"HomeView.image-search-string" = "Image Search";
+"HomeView.recheck-string" = "重新檢查";
+"HomeView.prime-generator-string" = "質數生成器";
+"HomeView.prime-checker-string" = "質數檢查器";
+"HomeView.navigation-title-string" = "Home";
+
+// 圖片總結器檢視 (學習總結器檢視)
+"image-summarizer-description-string-is" = "掃描包含段落的紙張";
+
+"section-one-string-is" = "總結圖片";
+"no-scans-string-is" = "沒有掃描";
+"summarize-from-scanned-image-string-is" = "總結";
+"scan-button-string-is" = "掃描";
+"summaryize-description" = "從掃描的影像進行摘要";
+"section-two-string-is" = "Manual Summarizer";
+"textfield-one-placeholder-string-is" = "What whould you like to ask?";
+"output-language-selection-string-is" = "選擇輸出語言";
+"summarize-button-string-is" = "總結";
+"ready-summarize-is" = "準備總結";
+
+"section-three-string-is" = "結果";
+"results-placeholder-string-is" = "總結結果將出現在這裡";
+"summarize-placeholder-string-is" = "發生錯誤。請再試一次，並確認您已插入有效的 OpenAI API 金鑰。";
+
+// 掃描檢視
+"ScanView.section-one-string" = "總結選項";
+"ScanView.summarize-button-string" = "總結";
+"ScanView.section-two-string" = "結果";
+"ScanView.results-placeholder-string" = "總結結果將出現在這裡";
+"ScanView.summarize-placeholder-string-error" = "發生錯誤。請再試一次";
+"ScanView.navigation-title-string" = "摘要";
+"ScanView.share-button-string" = "分享";
+
+// 關於檢視
+"AboutView.navigation-title-string" = "About";
+"AboutView.my-job-string" = "Kaung Zin Lin, Founder of ShortSum";
+"AboutView.team-string" = "我們的團隊和功勞";
+"AboutView.packages-string" = "套件";
+"AboutView.privacy-string" = "您的資料與隱私";
+"AboutView.section-one-string" = "附加資訊";
+"AboutView.about-app-string" = "ShortSum 1.0 (Beta)";
+"AboutView.made-string" = "Made with ❤️ and 🍀 in Burma 🇲🇲";
+
+// 我們的團隊檢視
+"OurTeamView.navigation-title-string" = "我們的團隊";
+"OurTeamView.section-one-string" = "開發人員";
+"OurTeamView.my-name-string" = "Kaung Zin Lin";
+"OurTeamView.my-description-string" = "CEO, Founder, and Head Developer of ShortSum since May 2024";
+"OurTeamView.thura-name-string" = "Thura Ye Yint";
+"OurTeamView.thura-description-string" ="自 2024 年 6 月起擔任 Windows 與 Linux 的首席開發人員";
+"OurTeamView.section-two-string" = "譯者";
+
+// 設定檢視
+"SettingsView.navigation-title-string" = "Settings";
+"SettingsView.navigation-toolbar-string" = "About";
+"SettingsView.section-one-string" = "語言";
+"SettingsView.ocr-language-button-string" = "關於 OCR 語言翻譯";
+"SettingsView.change-languages-string" = "變更介面語言";
+"SettingsView.alert.title-string" = "重要通知";
+"SettingsView.alert.description-string" = "我們的圖像辨識服務使用 Google 翻譯，支援多種語言。請注意，某些翻譯可能不準確！";
+"SettingsView.section-two-string" = "AI 設定";
+"SettingsView.openai-api-key-string" = "OpenAI API Key";
+"SettingsView.language-selection-string" = "語言選擇";
+"SettingsView.change-translation-language" = "Choose Input & Output Languages";
+
+// 手寫偵測檢視
+"BHDView.navigation-title-string" = "Bad Handwriting Detector";
+"BHDView.description-string" = "Scan a paper that is badly-written";
+"BHDView.scan-button-string" = "掃描";
+"BHDView.section-one-string" = "從影像偵測筆跡";
+"BHDView.no-scan-string" = "尚未掃描。從掃描影像開始。";
+"BHDView.detect-from-image-string" = "從掃描的影像偵測筆跡";
+
+// 掃描檢視 (手寫偵測)
+"HDScanView.detect-button-string" = "Detect Handwriting";
+"HDScanView.section-one-string" = "選項";
+"HDScanView.placeholder-string" = "Detected results will appear here.";
+"HDScanView.navigation-title-string" = "掃描結果";
+"HDScanView.share-button-string" = "分享";
+
+// YT 摘要視圖
+"YTSView.url-input-placeholder-string" = "輸入YouTube影片連結";
+"YTSView.navigation-title-string" = "YouTube Video Summarizer";
+"YTSView.summarizer-description-string" = "AI-powered tool that condens YouTube videos into quick, digestible insights, enhancing learning efficiency.";
+
+// CPFFView
+"CPFFView.example-number-string" = "IS 7 A PRIME NUMBER?";
+"CPFFView.example-yes-string" = "是";
+"CPFFView.no-string" = "No";
+"CPFFView.section-one-string" = "數字輸入";
+"CPFFView.insert-a-number-string" = "輸入數字";
+"CPFFView.check-prime" = "檢查質數";
+
+// 提出問題檢視
+"QuestionsView.navigation-title-string" = "詢問問題";
+"QuestionsView.description-string" = "詢問任何問題，AI 將提供答案！";
+"QuestionsView.section-one-string" = "問題輸入";
+"QuestionsView.ask-button-string" = "詢問";
+"QuestionsView.placeholder" = "結果將出現在這裡";
+
+// OpenAI API Key View
+"OpenAIView.navigation-title-string" = "OpenAI API Key";
+"OpenAIView.section-one-string" = "Your OpenAI API Key";
+"OpenAIView.textfield-placeholder-string" = "請輸入您的OpenAI API Key";
+"OpenAIView.save-button-string" = "Save Key";
+"OpenAIView.where-is-it-stored-string" = "您的 OpenAI API Key 儲存在您的 iPhone 本機中，僅在執行 AI 功能時使用。";
+
+// ResultsView
+"ResultsView.your-question-string" = "您的問題";
+"ResultsView.your-answer-string" = "您的答案";

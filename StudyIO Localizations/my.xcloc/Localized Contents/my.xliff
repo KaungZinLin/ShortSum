@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="InfoPlist.xcstrings" source-language="en" target-language="my" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>ShortSum</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>StudyIO</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>We need access to your camera to summarize and scan documents.</source>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.xcstrings" source-language="en" target-language="my" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <target state="translated"> </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target state="translated">%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="- %@" xml:space="preserve">
+        <source>- %@</source>
+        <target state="translated">- %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="25, 6, 2" xml:space="preserve">
+        <source>25, 6, 2</source>
+        <target state="translated">၂၅၊ ၆၊ ၂</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="100" xml:space="preserve">
+        <source>100</source>
+        <target state="translated">၁၀၀</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="200" xml:space="preserve">
+        <source>200</source>
+        <target state="translated">၂၀၀</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AI Model" xml:space="preserve">
+        <source>AI Model</source>
+        <target state="translated">AI Model</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="translated">အက်ပ်အကြောင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add OpenAI API Key" xml:space="preserve">
+        <source>Add OpenAI API Key</source>
+        <target state="translated">OpenAI API ကီးထည့်ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an OpenAI API Key" xml:space="preserve">
+        <source>Add an OpenAI API Key</source>
+        <target state="translated">OpenAI API ကီးတစ်ခုထည့်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AlertKit" xml:space="preserve">
+        <source>AlertKit</source>
+        <target state="translated">AlertKit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Answer" xml:space="preserve">
+        <source>Answer</source>
+        <target state="translated">အဖြေ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <target state="translated">အက်ပ်ပုံပန်းသဏ္ဍာန်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Article Summarizer" xml:space="preserve">
+        <source>Article Summarizer</source>
+        <target state="translated">ဆောင်းပါးအကျဉ်းချုပ်ခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Article Summarizer (Beta)" xml:space="preserve">
+        <source>Article Summarizer (Beta)</source>
+        <target state="translated">ဆောင်းပါးအကျဉ်းချုပ်ခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Artificial intelligence" xml:space="preserve">
+        <source>Artificial intelligence</source>
+        <target state="translated">မှတ်ဉာဏ်တု (AI)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target state="translated">မေးမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask AI" xml:space="preserve">
+        <source>Ask AI</source>
+        <target state="translated">AI ကိုမေးပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask Questions" xml:space="preserve">
+        <source>Ask Questions</source>
+        <target state="translated">မေးခွန်းများမေးခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-Detect" xml:space="preserve">
+        <source>Auto-Detect</source>
+        <target state="translated">အလိုအလျောက်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bad Handwriting Detector" xml:space="preserve">
+        <source>Bad Handwriting Detector</source>
+        <target state="translated">လက်ရေးဆိုးကြည့်ခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="By Kaung Zin Lin, Thura Ye Yint and Thuta Htet" xml:space="preserve">
+        <source>By Kaung Zin Lin, Thura Ye Yint and Thuta Htet</source>
+        <target state="translated">By Kaung Zin Lin, Thura Ye Yint and Thuta Htet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Detect!" xml:space="preserve">
+        <source>Cannot Detect!</source>
+        <target state="translated">ရှာ၍မရပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Generate!" xml:space="preserve">
+        <source>Cannot Generate!</source>
+        <target state="translated">အဖြေမထွက်နိုင်ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Summarize!" xml:space="preserve">
+        <source>Cannot Summarize!</source>
+        <target state="translated">အကျဉ်းချုပ်၍ မရပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot generate your answer!" xml:space="preserve">
+        <source>Cannot generate your answer!</source>
+        <target state="translated">သင့်အဖြေကို မဖန်တီးနိုင်ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot summarize" xml:space="preserve">
+        <source>Cannot summarize</source>
+        <target state="translated">အကျဉ်းချုပ်၍ မရပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change Interface Language" xml:space="preserve">
+        <source>Change Interface Language</source>
+        <target state="translated">Interface ဘာသာစကားကို ပြောင်းပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes to the Language Selection Detected" xml:space="preserve">
+        <source>Changes to the Language Selection Detected</source>
+        <target state="translated">ဘာသာစကား ရွေးချယ်မှုတွင် အပြောင်းအလဲများကို တွေ့ရှိထားသည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes to the OpenAI API Key Detected" xml:space="preserve">
+        <source>Changes to the OpenAI API Key Detected</source>
+        <target state="translated">OpenAI API ကီးတွင် ပြောင်းလဲမှုများကို တွေ့ရှိထားသည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check" xml:space="preserve">
+        <source>Check</source>
+        <target state="translated">စစ်ဆေးမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check Prime" xml:space="preserve">
+        <source>Check Prime</source>
+        <target state="translated">သုဒ္ဓကိန်းဟုတ်မဟုတ်စစ်ဆေးမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check and Find HCF/LCM" xml:space="preserve">
+        <source>Check and Find HCF/LCM</source>
+        <target state="translated">ဘ.ဆ.ကနှင့် ဘ.ဆ.င ရှာခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check and HCF/LCM" xml:space="preserve">
+        <source>Check and HCF/LCM</source>
+        <target state="translated">ဘ.ဆ.ကနှင့် ဘ.ဆ.င ရှာခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose Translation Language" xml:space="preserve">
+        <source>Choose Translation Language</source>
+        <target state="translated">ဘာသာပြန်စကားကို ရွေးချယ်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target state="translated">ပိတ်မည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decent effort! You're halfway there. Some more practice will help you improve." xml:space="preserve">
+        <source>Decent effort! You're halfway there. Some more practice will help you improve.</source>
+        <target state="translated">သင့်လျော်သောအားထုတ်မှု။ မင်းအဲဒီမှာ လမ်းတစ်ဝက်ရောက်နေပြီ။ နောက်ထပ် အလေ့အကျင့်အချို့က သင့်ကို တိုးတက်အောင် ကူညီပေးပါလိမ့်မယ်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detect" xml:space="preserve">
+        <source>Detect</source>
+        <target state="translated">ရှာမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detected Results" xml:space="preserve">
+        <source>Detected Results</source>
+        <target state="translated">တွေ့ရှိသောရလဒ်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exam Prep" xml:space="preserve">
+        <source>Exam Prep</source>
+        <target state="translated">စားမေးပွဲအတွက် ပြင်ဆင်ခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Excellent! You're absolutely ready for the exams. Keep up the great work!" xml:space="preserve">
+        <source>Excellent! You're absolutely ready for the exams. Keep up the great work!</source>
+        <target state="translated">အရမ်းကောင်းတယ် စာမေးပွဲအတွက် အဆင်သင့်ဖြစ်နေပါပြီ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed! Retry." xml:space="preserve">
+        <source>Failed! Retry.</source>
+        <target state="translated">မအောင်မြင်။ ပြန်ကြိုးစားပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Non-Prime Numbers" xml:space="preserve">
+        <source>Find Non-Prime Numbers</source>
+        <target state="translated">ဆခွဲကိန်းရှာမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Prime Numbers" xml:space="preserve">
+        <source>Find Prime Numbers</source>
+        <target state="translated">သုဒ္ဓကိန်းရှာမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Primes" xml:space="preserve">
+        <source>Find Primes</source>
+        <target state="translated">သုဒ္ဓကိန်းရှာခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Primes/Non-Primes" xml:space="preserve">
+        <source>Find Primes/Non-Primes</source>
+        <target state="translated">သုဒ္ဓကိန်းရှာခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find the Highest Common Factors" xml:space="preserve">
+        <source>Find the Highest Common Factors</source>
+        <target state="translated">အကြီးဆုံးဘုံဆခွဲကိန်းရှာမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find the Lowest Common Multiple" xml:space="preserve">
+        <source>Find the Lowest Common Multiple</source>
+        <target state="translated">အငယ်ဆုံးဘုံဆတိုးကိန်းရှာမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button." xml:space="preserve">
+        <source>For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button.</source>
+        <target state="translated">ကျွန်ုပ်တို့ မပံ့ပိုးနိုင်သော ဘာသာစကားများအတွက် AI အတွက် သင့်မက်ဆေ့ချ်ကို အင်္ဂလိပ်သို့ ပြောင်းရန် Google Translate ကို အသုံးပြုပြီး ပြန်ကြားချက်အတွက် သင့်ဘာသာစကားသို့ ပြန်သွားပါမည်။ ဤခလုတ်ကို အသုံးပြု၍ AI အတွက် သင်အလိုရှိသော ဘာသာစကားကို သင်ရွေးချယ်နိုင်ပါသည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="G" xml:space="preserve">
+        <source>G</source>
+        <target state="translated">G</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo." xml:space="preserve">
+        <source>GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo.</source>
+        <target state="translated">GPT-3.5 Turbo သည် ယေဘူယျအသုံးပြုရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ GPT-4 သည် အဆင့်မြင့်ဆုံးနှင့် စျေးအကြီးဆုံး မော်ဒယ်ဖြစ်ပြီး GPT-4o သည် GPT-3.5 Turbo ထက် ပိုစွမ်းဆောင်နိုင်သော စျေးပိုသက်သာသော အစားထိုးကို မော်ဒယ်တစ်ခုဖြစ်သည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Good work! With a little more focus on the details, you'll be in great shape." xml:space="preserve">
+        <source>Good work! With a little more focus on the details, you'll be in great shape.</source>
+        <target state="translated">အသေးစိတ်အချက်များအပေါ်အနည်းငယ်ပိုအာရုံစိုက်ခြင်းဖြင့်သင်ကောင်းမွန်သောပုံစံဖြစ်လာလိမ့်မည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Great job! You're almost there. A bit more polish and you'll be perfect!" xml:space="preserve">
+        <source>Great job! You're almost there. A bit more polish and you'll be perfect!</source>
+        <target state="translated">နည်းနည်းပိုအရောင်တင်ပြီး ပြီးပြည့်စုံသွားပါလိမ့်မယ်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Search" xml:space="preserve">
+        <source>Image Search</source>
+        <target state="translated">ရုပ်ပုံရှာခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Summarizer" xml:space="preserve">
+        <source>Image Summarizer</source>
+        <target state="translated">ပုံအကျဉ်းချုပ်ခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Included Libraries" xml:space="preserve">
+        <source>Included Libraries</source>
+        <target state="translated">Included Libraries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties." xml:space="preserve">
+        <source>It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties.</source>
+        <target state="translated">ဒါကို သင် ရုန်းကန်နေတယ်ဆိုတာ ရှင်းပါတယ်။ သင်ဘယ်မှာအခက်အခဲတွေရှိနေလဲဆိုတာ ဖော်ထုတ်ကြည့်ရအောင်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Joke of the Day (by GoodHouseKeeping)" xml:space="preserve">
+        <source>Joke of the Day (by GoodHouseKeeping)</source>
+        <target state="translated">Joke of the Day (by GoodHouseKeeping)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kaung Zin Lin" xml:space="preserve">
+        <source>Kaung Zin Lin</source>
+        <target state="translated">Kaung Zin Lin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language" xml:space="preserve">
+        <source>Language</source>
+        <target state="translated">ဘာသာစကား</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language Selection" xml:space="preserve">
+        <source>Language Selection</source>
+        <target state="translated">ဘာသာစကား ရွေးချယ်မှု</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language, Region, and Translations" xml:space="preserve">
+        <source>Language, Region, and Translations</source>
+        <target state="translated">ဘာသာစကား၊ ဒေသနှင့် ဘာသာပြန်ဆိုမှုများ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target state="translated"> Loading လုပ်နေသည်…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Made with ❤️ and 🍀 in Burma 🇲🇲" xml:space="preserve">
+        <source>Made with ❤️ and 🍀 in Burma 🇲🇲</source>
+        <target state="translated">Made with ❤️ and 🍀 in Burma 🇲🇲</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Math" xml:space="preserve">
+        <source>Math</source>
+        <target state="translated">သင်္ချာ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nice attempt! You're on the right track, but there's room for some fine-tuning." xml:space="preserve">
+        <source>Nice attempt! You're on the right track, but there's room for some fine-tuning.</source>
+        <target state="translated">အလွန်ကောင်းသောကြိုးစားအားထုတ်မှု။ သင်ကောင်းမွန်စွာလုပ်ဆောင်နိုင်သည်၊ တိုးတက်မှုအနည်းငယ်သာလိုအပ်ပါတော့သည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key Detected!" xml:space="preserve">
+        <source>No OpenAI API Key Detected!</source>
+        <target state="translated">OpenAI API Key မတွေ့ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key detected" xml:space="preserve">
+        <source>No OpenAI API Key detected</source>
+        <target state="translated">OpenAI API Key မတွေ့ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key detected!" xml:space="preserve">
+        <source>No OpenAI API Key detected!</source>
+        <target state="translated">OpenAI API Key မတွေ့ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Scans" xml:space="preserve">
+        <source>No Scans</source>
+        <target state="translated">Scan ဖတ်ထားသောစာရွက်များမရှိ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not bad, but there's definitely room for improvement. Keep working on it!" xml:space="preserve">
+        <source>Not bad, but there's definitely room for improvement. Keep working on it!</source>
+        <target state="translated">မဆိုးပါဘူး။ သို့သော် အနည်းငယ်တိုးတက်မှုလိုအပ်ပါတယ်၊ ဆက်လက်ကြိုးစားပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">အိုကေ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI" xml:space="preserve">
+        <source>OpenAI</source>
+        <target state="translated">OpenAI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI API Key" xml:space="preserve">
+        <source>OpenAI API Key</source>
+        <target state="translated">OpenAI API Key</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI API Key:" xml:space="preserve">
+        <source>OpenAI API Key:</source>
+        <target state="translated">OpenAI API Key:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original Question:" xml:space="preserve">
+        <source>Original Question:</source>
+        <target state="translated">မူရင်းမေးခွန်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original Website" xml:space="preserve">
+        <source>Original Website</source>
+        <target state="translated">မူရင်းဝဘ်ဆိုဒ်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Other Information" xml:space="preserve">
+        <source>Other Information</source>
+        <target state="translated">Other Information</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please Restart the App to Apply the Changes" xml:space="preserve">
+        <source>Please Restart the App to Apply the Changes</source>
+        <target state="translated">ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please fill in all the fields" xml:space="preserve">
+        <source>Please fill in all the fields</source>
+        <target state="translated">ကွက်လပ်အားလုံးကို ဖြည့်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!" xml:space="preserve">
+        <source>Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!</source>
+        <target state="translated">သတိ- ဤရမှတ်သည် သင်၏နားလည်မှုကို ယခုစစ်ဆေးရန်အတွက်သာဖြစ်သည်။ စာမေးပွဲများတွင် အမှတ်ကောင်းများရရှိရန် အားလုံးကို မှန်ကန်စွာဖြေဆိုရန် လိုအပ်ပါသည်။ သင် အပြည့်အဝပြင်ဆင်ထားကြောင်း သေချာစေရန် ဆက်လက်လေ့ကျင့်ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please restart the app to apply changes" xml:space="preserve">
+        <source>Please restart the app to apply changes</source>
+        <target state="translated">ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please restart the app to apply changes across the app" xml:space="preserve">
+        <source>Please restart the app to apply changes across the app</source>
+        <target state="translated">ပြောင်းလဲမှုများကို အသုံးချရန် အက်ပ်ကို ပြန်လည်စတင်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quick Info &amp; Visuals" xml:space="preserve">
+        <source>Quick Info &amp; Visuals</source>
+        <target state="translated">လျင်မြန်သော အချက်အလက်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quote of the Day" xml:space="preserve">
+        <source>Quote of the Day</source>
+        <target state="translated">နေ့၏ကိုးကား</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ready to Detect" xml:space="preserve">
+        <source>Ready to Detect</source>
+        <target state="translated">ထောက်လှမ်းရန်အဆင်သင့်ဖြစ်ပါပြီ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ready to Summarize" xml:space="preserve">
+        <source>Ready to Summarize</source>
+        <target state="translated">အကျဉ်းချုပ်ရန် အဆင်သင့်ဖြစ်ပါပြီ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recheck" xml:space="preserve">
+        <source>Recheck</source>
+        <target state="translated">ပြန်လည်စစ်ဆေးခြင်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restart Now" xml:space="preserve">
+        <source>Restart Now</source>
+        <target state="translated">ယခု ပြန်လည်စတင်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results" xml:space="preserve">
+        <source>Results</source>
+        <target state="translated">ရလဒ်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results will appear here." xml:space="preserve">
+        <source>Results will appear here.</source>
+        <target state="translated">ရလဒ်များ ဤနေရာတွင် ပေါ်လာပါမည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">သိမ်းဆည်းမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan" xml:space="preserve">
+        <source>Scan</source>
+        <target state="translated">Scan ဖတ်မည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan a paper that contains the paragraph" xml:space="preserve">
+        <source>Scan a paper that contains the paragraph</source>
+        <target state="translated">စာပိုဒ်ပါသောစာရွက်ကို Scan ဖတ်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan a paper that is badly-written" xml:space="preserve">
+        <source>Scan a paper that is badly-written</source>
+        <target state="translated">လက်ရေးဆိုးဖြင့်ရေးထားသောစာရွက်ကို Scan ဖတ်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scanned Results" xml:space="preserve">
+        <source>Scanned Results</source>
+        <target state="translated">စကင်န်ဖတ်ထားသော ရလဒ်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">ချိန်ညှိရန်နေရာ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">မျှဝေပါမည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum" xml:space="preserve">
+        <source>ShortSum</source>
+        <target state="translated">ShortSum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info." xml:space="preserve">
+        <source>ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info.</source>
+        <target state="translated">ShortSum သည် OpenAI ၏ ChatGPT ပေါ်တွင် အားကိုးသည်။ ChatGPT သည် အမှားလုပ်မိနိုင်သည်။ အရေးကြီးသောအချက်အလက်ကိုကြည့်ပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. " xml:space="preserve">
+        <source>ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. </source>
+        <target state="translated">ShortSum သည် AI ၏ထွက်ရှိမှုအပေါ်အခြေခံ၍ Text-to-Speech မှစကားပြောဘာသာစကားနှင့် လေယူလေသိမ်းတို့ကို အလိုအလျောက်ရှာဖွေပြီး အသုံးပြုမည်ဖြစ်သည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Study Smarter with AI" xml:space="preserve">
+        <source>Study Smarter with AI</source>
+        <target state="translated">AI ဖြင့် ပိုမိုစမတ်ကျစွာ လေ့လာပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarize" xml:space="preserve">
+        <source>Summarize</source>
+        <target state="translated">အကျဉ်းချုပ်မည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarized Results" xml:space="preserve">
+        <source>Summarized Results</source>
+        <target state="translated">အကျဉ်းချုပ်ရလဒ်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarized Results will appear here." xml:space="preserve">
+        <source>Summarized Results will appear here.</source>
+        <target state="translated">အကျဉ်းချုပ်ရလဒ်များ ဤနေရာတွင် ပေါ်လာပါမည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <target state="translated">အကျဉ်းချုပ်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SwiftSoup" xml:space="preserve">
+        <source>SwiftSoup</source>
+        <target state="translated">SwiftSoup</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SwiftyTranslate" xml:space="preserve">
+        <source>SwiftyTranslate</source>
+        <target state="translated">SwiftyTranslate</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Text-to-Speech" xml:space="preserve">
+        <source>Text-to-Speech</source>
+        <target state="translated">Text-to-Speech</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The Soviet Union failed..." xml:space="preserve">
+        <source>The Soviet Union failed...</source>
+        <target state="translated">ဆိုဗီယက်ယူနီယံ မအောင်မြင်...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <target state="translated">အပြင်အဆင်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="There's a lot to work on here. Keep studying and practicing, you can do it!" xml:space="preserve">
+        <source>There's a lot to work on here. Keep studying and practicing, you can do it!</source>
+        <target state="translated">ကြိုးစားရန်အများကြီးရှိပါသေးတယ်။ ဆက်လက်လေ့လာပြီးလေ့ကျင့်ပါ၊ သင်လုပ်နိုင်ပါတယ်။
+</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target state="translated">ယနေ့</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Translations" xml:space="preserve">
+        <source>Translations</source>
+        <target state="translated">ဘာသာပြန်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Translations powered by " xml:space="preserve">
+        <source>Translations powered by </source>
+        <target state="translated">Translations powered by</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in the ending range" xml:space="preserve">
+        <source>Type in the ending range</source>
+        <target state="translated">ဆုံးသော ကဏန်းကိုရိုက်ထည့်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in the starting range" xml:space="preserve">
+        <source>Type in the starting range</source>
+        <target state="translated">စာသော ကဏန်းကိုရိုက်ထည့်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in two or more numbers" xml:space="preserve">
+        <source>Type in two or more numbers</source>
+        <target state="translated">နှစ်ခု (သို့) နှစ်ခုထက်ပိုသော ကဏန်းကိုရိုက်ထည့်ပါ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uni.add-api-key-open-string" xml:space="preserve">
+        <source>Uni.add-api-key-open-string</source>
+        <target state="translated">Uni.add-api-key-open-string</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Updates to the AI Language Model Detected!" xml:space="preserve">
+        <source>Updates to the AI Language Model Detected!</source>
+        <target state="translated">AI Language Model အပ်ဒိတ်များကို တွေ့ရှိသည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version 1.0 (Stable)" xml:space="preserve">
+        <source>Version 1.0 (Stable)</source>
+        <target state="translated">Version 1.0 (Stable)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Very good effort! You're doing well, just a few minor improvements needed." xml:space="preserve">
+        <source>Very good effort! You're doing well, just a few minor improvements needed.</source>
+        <target state="translated">ကြိုးစားမှုကောင်းပါတယ်။ အနည်းကြိုးစာရန်သာလိုပါတော့သည်။
+</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Warning(s)" xml:space="preserve">
+        <source>Warning(s)</source>
+        <target state="translated">သတိပေးချက်(များ)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What's the article link?" xml:space="preserve">
+        <source>What's the article link?</source>
+        <target state="translated">ဆောင်းပါးလင့်ခ်က ဘာလဲ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Why did the Soviet Union fail?" xml:space="preserve">
+        <source>Why did the Soviet Union fail?</source>
+        <target state="translated">ဆိုဗီယက်ယူနီယံ ဘာကြောင့် ကျဆုံးခဲ့ရတာလဲ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YOU GOT " xml:space="preserve">
+        <source>YOU GOT </source>
+        <target state="translated">သင်ရှိသောအမှတ်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You're Offline" xml:space="preserve">
+        <source>You're Offline</source>
+        <target state="translated">သင်သည် အော့ဖ်လိုင်းဖြစ်နေသည်</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You're not connected to the internet!" xml:space="preserve">
+        <source>You're not connected to the internet!</source>
+        <target state="translated">သင်သည် အင်တာနက်နှင့် ချိတ်ဆက်မထားပါ။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!" xml:space="preserve">
+        <source>You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!</source>
+        <target state="translated">သင်စတင်လိုက်ပြီ၊ သို့သော် ကြိုးစားရန်လိုအပ်ပါတယ်၊ လက်မလျော့ပါနဲ့။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Answer" xml:space="preserve">
+        <source>Your Answer</source>
+        <target state="translated">သင့်အဖြေ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Answer:" xml:space="preserve">
+        <source>Your Answer:</source>
+        <target state="translated">သင့်အဖြေ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.&#10;&#10;If you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key." xml:space="preserve">
+        <source>Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.
+
+If you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key.</source>
+        <target state="translated">သင့်၏ OpenAI API Key သည် သင့် iPhone တွင်သာ သိမ်းထားပြီး မှတ်ဉာဏ်တု (AI) Feature များအလုပ်လုပ်ရာတွင်သာ အသုံးပြုသည်။
+
+သင့်၏ OpenAI API Key ကို ဖျက်လိုပါက အထက်ရှိ စာရိုက်ထည့်ရန်နေရာတွေ ကျပန်းစာကားလုံးများ (ဥပမာ - aBXC) သာရိုက်ထည့်ပါ။ အဟောင်း API Key သည် အလိုလျှောက်ပျက်သွားပြမည်။</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Question" xml:space="preserve">
+        <source>Your Question</source>
+        <target state="translated">သင့်မေးခွန်း</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Results" xml:space="preserve">
+        <source>Your Results</source>
+        <target state="translated">သင်၏ရလဒ်များ</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="e" xml:space="preserve">
+        <source>e</source>
+        <target state="translated">e</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="g" xml:space="preserve">
+        <source>g</source>
+        <target state="translated">g</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="l" xml:space="preserve">
+        <source>l</source>
+        <target state="translated">l</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="o" xml:space="preserve">
+        <source>o</source>
+        <target state="translated">o</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sk-test-12345A..." xml:space="preserve">
+        <source>sk-test-12345A...</source>
+        <target state="translated">sk-test-12345A...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🇲🇲 Translated to Burmese" xml:space="preserve">
+        <source>🇲🇲 Translated to Burmese</source>
+        <target state="translated">🇲🇲 Translated to Burmese</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

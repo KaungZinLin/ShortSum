@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>ShortSum</source>
+        <target state="new">ShortSum</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>StudyIO</source>
+        <target state="new">StudyIO</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
+        <source>We need access to your camera to summarize and scan documents.</source>
+        <target state="new">We need access to your camera to summarize and scan documents.</target>
+        <note>Privacy - Camera Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E204a"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <target state="new"/>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%@" xml:space="preserve">
+        <source>%@</source>
+        <target state="new">%@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="- %@" xml:space="preserve">
+        <source>- %@</source>
+        <target state="new">- %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="25, 6, 2" xml:space="preserve">
+        <source>25, 6, 2</source>
+        <target state="new">25, 6, 2</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="100" xml:space="preserve">
+        <source>100</source>
+        <target state="new">100</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="200" xml:space="preserve">
+        <source>200</source>
+        <target state="new">200</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AI Model" xml:space="preserve">
+        <source>AI Model</source>
+        <target state="new">AI Model</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="new">About</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add OpenAI API Key" xml:space="preserve">
+        <source>Add OpenAI API Key</source>
+        <target state="new">Add OpenAI API Key</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Add an OpenAI API Key" xml:space="preserve">
+        <source>Add an OpenAI API Key</source>
+        <target state="new">Add an OpenAI API Key</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AlertKit" xml:space="preserve">
+        <source>AlertKit</source>
+        <target state="new">AlertKit</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Answer" xml:space="preserve">
+        <source>Answer</source>
+        <target state="new">Answer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <target state="new">Appearance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Article Summarizer" xml:space="preserve">
+        <source>Article Summarizer</source>
+        <target state="new">Article Summarizer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Article Summarizer (Beta)" xml:space="preserve">
+        <source>Article Summarizer (Beta)</source>
+        <target state="new">Article Summarizer (Beta)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Artificial intelligence" xml:space="preserve">
+        <source>Artificial intelligence</source>
+        <target state="new">Artificial intelligence</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target state="new">Ask</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask AI" xml:space="preserve">
+        <source>Ask AI</source>
+        <target state="new">Ask AI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ask Questions" xml:space="preserve">
+        <source>Ask Questions</source>
+        <target state="new">Ask Questions</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto-Detect" xml:space="preserve">
+        <source>Auto-Detect</source>
+        <target state="new">Auto-Detect</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bad Handwriting Detector" xml:space="preserve">
+        <source>Bad Handwriting Detector</source>
+        <target state="new">Bad Handwriting Detector</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="By Kaung Zin Lin, Thura Ye Yint and Thuta Htet" xml:space="preserve">
+        <source>By Kaung Zin Lin, Thura Ye Yint and Thuta Htet</source>
+        <target state="new">By Kaung Zin Lin, Thura Ye Yint and Thuta Htet</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Detect!" xml:space="preserve">
+        <source>Cannot Detect!</source>
+        <target state="new">Cannot Detect!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Generate!" xml:space="preserve">
+        <source>Cannot Generate!</source>
+        <target state="new">Cannot Generate!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot Summarize!" xml:space="preserve">
+        <source>Cannot Summarize!</source>
+        <target state="new">Cannot Summarize!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot generate your answer!" xml:space="preserve">
+        <source>Cannot generate your answer!</source>
+        <target state="new">Cannot generate your answer!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot summarize" xml:space="preserve">
+        <source>Cannot summarize</source>
+        <target state="new">Cannot summarize</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change Interface Language" xml:space="preserve">
+        <source>Change Interface Language</source>
+        <target state="new">Change Interface Language</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes to the Language Selection Detected" xml:space="preserve">
+        <source>Changes to the Language Selection Detected</source>
+        <target state="new">Changes to the Language Selection Detected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Changes to the OpenAI API Key Detected" xml:space="preserve">
+        <source>Changes to the OpenAI API Key Detected</source>
+        <target state="new">Changes to the OpenAI API Key Detected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check" xml:space="preserve">
+        <source>Check</source>
+        <target state="new">Check</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check Prime" xml:space="preserve">
+        <source>Check Prime</source>
+        <target state="new">Check Prime</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check and Find HCF/LCM" xml:space="preserve">
+        <source>Check and Find HCF/LCM</source>
+        <target state="new">Check and Find HCF/LCM</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check and HCF/LCM" xml:space="preserve">
+        <source>Check and HCF/LCM</source>
+        <target state="new">Check and HCF/LCM</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Choose Translation Language" xml:space="preserve">
+        <source>Choose Translation Language</source>
+        <target state="new">Choose Translation Language</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Decent effort! You're halfway there. Some more practice will help you improve." xml:space="preserve">
+        <source>Decent effort! You're halfway there. Some more practice will help you improve.</source>
+        <target state="new">Decent effort! You're halfway there. Some more practice will help you improve.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detect" xml:space="preserve">
+        <source>Detect</source>
+        <target state="new">Detect</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Detected Results" xml:space="preserve">
+        <source>Detected Results</source>
+        <target state="new">Detected Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Exam Prep" xml:space="preserve">
+        <source>Exam Prep</source>
+        <target state="new">Exam Prep</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Excellent! You're absolutely ready for the exams. Keep up the great work!" xml:space="preserve">
+        <source>Excellent! You're absolutely ready for the exams. Keep up the great work!</source>
+        <target state="new">Excellent! You're absolutely ready for the exams. Keep up the great work!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed! Retry." xml:space="preserve">
+        <source>Failed! Retry.</source>
+        <target state="new">Failed! Retry.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Non-Prime Numbers" xml:space="preserve">
+        <source>Find Non-Prime Numbers</source>
+        <target state="new">Find Non-Prime Numbers</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Prime Numbers" xml:space="preserve">
+        <source>Find Prime Numbers</source>
+        <target state="new">Find Prime Numbers</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Primes" xml:space="preserve">
+        <source>Find Primes</source>
+        <target state="new">Find Primes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find Primes/Non-Primes" xml:space="preserve">
+        <source>Find Primes/Non-Primes</source>
+        <target state="new">Find Primes/Non-Primes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find the Highest Common Factors" xml:space="preserve">
+        <source>Find the Highest Common Factors</source>
+        <target state="new">Find the Highest Common Factors</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Find the Lowest Common Multiple" xml:space="preserve">
+        <source>Find the Lowest Common Multiple</source>
+        <target state="new">Find the Lowest Common Multiple</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button." xml:space="preserve">
+        <source>For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button.</source>
+        <target state="new">For unsupported languages, we use Google Translate to convert your input to English for the AI, then back to your language for the response. You can change the language that you would like for the AI to input/output from this button.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="G" xml:space="preserve">
+        <source>G</source>
+        <target state="new">G</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo." xml:space="preserve">
+        <source>GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo.</source>
+        <target state="new">GPT-3.5 Turbo is ideal for general use. GPT-4 is the most advanced and costly model, while GPT-4o offers a more affordable alternative with greater capabilities than GPT-3.5 Turbo.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Good work! With a little more focus on the details, you'll be in great shape." xml:space="preserve">
+        <source>Good work! With a little more focus on the details, you'll be in great shape.</source>
+        <target state="new">Good work! With a little more focus on the details, you'll be in great shape.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Great job! You're almost there. A bit more polish and you'll be perfect!" xml:space="preserve">
+        <source>Great job! You're almost there. A bit more polish and you'll be perfect!</source>
+        <target state="new">Great job! You're almost there. A bit more polish and you'll be perfect!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Search" xml:space="preserve">
+        <source>Image Search</source>
+        <target state="new">Image Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Image Summarizer" xml:space="preserve">
+        <source>Image Summarizer</source>
+        <target state="new">Image Summarizer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Included Libraries" xml:space="preserve">
+        <source>Included Libraries</source>
+        <target state="new">Included Libraries</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties." xml:space="preserve">
+        <source>It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties.</source>
+        <target state="new">It's clear you're struggling with this. Let's go over the material again and try to identify where you're having difficulties.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Joke of the Day (by GoodHouseKeeping)" xml:space="preserve">
+        <source>Joke of the Day (by GoodHouseKeeping)</source>
+        <target state="new">Joke of the Day (by GoodHouseKeeping)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Kaung Zin Lin" xml:space="preserve">
+        <source>Kaung Zin Lin</source>
+        <target state="new">Kaung Zin Lin</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language" xml:space="preserve">
+        <source>Language</source>
+        <target state="new">Language</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language Selection" xml:space="preserve">
+        <source>Language Selection</source>
+        <target state="new">Language Selection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Language, Region, and Translations" xml:space="preserve">
+        <source>Language, Region, and Translations</source>
+        <target state="new">Language, Region, and Translations</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Loading..." xml:space="preserve">
+        <source>Loading...</source>
+        <target state="new">Loading...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Made with ❤️ and 🍀 in Burma 🇲🇲" xml:space="preserve">
+        <source>Made with ❤️ and 🍀 in Burma 🇲🇲</source>
+        <target state="new">Made with ❤️ and 🍀 in Burma 🇲🇲</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Math" xml:space="preserve">
+        <source>Math</source>
+        <target state="new">Math</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nice attempt! You're on the right track, but there's room for some fine-tuning." xml:space="preserve">
+        <source>Nice attempt! You're on the right track, but there's room for some fine-tuning.</source>
+        <target state="new">Nice attempt! You're on the right track, but there's room for some fine-tuning.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key Detected!" xml:space="preserve">
+        <source>No OpenAI API Key Detected!</source>
+        <target state="new">No OpenAI API Key Detected!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key detected" xml:space="preserve">
+        <source>No OpenAI API Key detected</source>
+        <target state="new">No OpenAI API Key detected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No OpenAI API Key detected!" xml:space="preserve">
+        <source>No OpenAI API Key detected!</source>
+        <target state="new">No OpenAI API Key detected!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Scans" xml:space="preserve">
+        <source>No Scans</source>
+        <target state="new">No Scans</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not bad, but there's definitely room for improvement. Keep working on it!" xml:space="preserve">
+        <source>Not bad, but there's definitely room for improvement. Keep working on it!</source>
+        <target state="new">Not bad, but there's definitely room for improvement. Keep working on it!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="new">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI" xml:space="preserve">
+        <source>OpenAI</source>
+        <target state="new">OpenAI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI API Key" xml:space="preserve">
+        <source>OpenAI API Key</source>
+        <target state="new">OpenAI API Key</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OpenAI API Key:" xml:space="preserve">
+        <source>OpenAI API Key:</source>
+        <target state="new">OpenAI API Key:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original Question:" xml:space="preserve">
+        <source>Original Question:</source>
+        <target state="new">Original Question:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original Website" xml:space="preserve">
+        <source>Original Website</source>
+        <target state="new">Original Website</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Other Information" xml:space="preserve">
+        <source>Other Information</source>
+        <target state="new">Other Information</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please Restart the App to Apply the Changes" xml:space="preserve">
+        <source>Please Restart the App to Apply the Changes</source>
+        <target state="new">Please Restart the App to Apply the Changes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please fill in all the fields" xml:space="preserve">
+        <source>Please fill in all the fields</source>
+        <target state="new">Please fill in all the fields</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!" xml:space="preserve">
+        <source>Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!</source>
+        <target state="new">Please note: This score is just for checking your understanding right now. To achieve good grades in your exams, you need to answer everything correctly. Keep practicing and studying to ensure you're fully prepared!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please restart the app to apply changes" xml:space="preserve">
+        <source>Please restart the app to apply changes</source>
+        <target state="new">Please restart the app to apply changes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Please restart the app to apply changes across the app" xml:space="preserve">
+        <source>Please restart the app to apply changes across the app</source>
+        <target state="new">Please restart the app to apply changes across the app</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quick Info &amp; Visuals" xml:space="preserve">
+        <source>Quick Info &amp; Visuals</source>
+        <target state="new">Quick Info &amp; Visuals</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quote of the Day" xml:space="preserve">
+        <source>Quote of the Day</source>
+        <target state="new">Quote of the Day</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ready to Detect" xml:space="preserve">
+        <source>Ready to Detect</source>
+        <target state="new">Ready to Detect</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ready to Summarize" xml:space="preserve">
+        <source>Ready to Summarize</source>
+        <target state="new">Ready to Summarize</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Recheck" xml:space="preserve">
+        <source>Recheck</source>
+        <target state="new">Recheck</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restart Now" xml:space="preserve">
+        <source>Restart Now</source>
+        <target state="new">Restart Now</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results" xml:space="preserve">
+        <source>Results</source>
+        <target state="new">Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Results will appear here." xml:space="preserve">
+        <source>Results will appear here.</source>
+        <target state="new">Results will appear here.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan" xml:space="preserve">
+        <source>Scan</source>
+        <target state="new">Scan</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan a paper that contains the paragraph" xml:space="preserve">
+        <source>Scan a paper that contains the paragraph</source>
+        <target state="new">Scan a paper that contains the paragraph</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scan a paper that is badly-written" xml:space="preserve">
+        <source>Scan a paper that is badly-written</source>
+        <target state="new">Scan a paper that is badly-written</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scanned Results" xml:space="preserve">
+        <source>Scanned Results</source>
+        <target state="new">Scanned Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum" xml:space="preserve">
+        <source>ShortSum</source>
+        <target state="new">ShortSum</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info." xml:space="preserve">
+        <source>ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info.</source>
+        <target state="new">ShortSum relies on OpenAI's ChatGPT. ChatGPT can make mistakes. See important info.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. " xml:space="preserve">
+        <source>ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. </source>
+        <target state="new">ShortSum will detect the text-to-speech language and accent that needs to be used automatically depending on what language the AI generated. </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Study Smarter with AI" xml:space="preserve">
+        <source>Study Smarter with AI</source>
+        <target state="new">Study Smarter with AI</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarize" xml:space="preserve">
+        <source>Summarize</source>
+        <target state="new">Summarize</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarized Results" xml:space="preserve">
+        <source>Summarized Results</source>
+        <target state="new">Summarized Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summarized Results will appear here." xml:space="preserve">
+        <source>Summarized Results will appear here.</source>
+        <target state="new">Summarized Results will appear here.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <target state="new">Summary</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SwiftSoup" xml:space="preserve">
+        <source>SwiftSoup</source>
+        <target state="new">SwiftSoup</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="SwiftyTranslate" xml:space="preserve">
+        <source>SwiftyTranslate</source>
+        <target state="new">SwiftyTranslate</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Text-to-Speech" xml:space="preserve">
+        <source>Text-to-Speech</source>
+        <target state="new">Text-to-Speech</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="The Soviet Union failed..." xml:space="preserve">
+        <source>The Soviet Union failed...</source>
+        <target state="new">The Soviet Union failed...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Theme" xml:space="preserve">
+        <source>Theme</source>
+        <target state="new">Theme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="There's a lot to work on here. Keep studying and practicing, you can do it!" xml:space="preserve">
+        <source>There's a lot to work on here. Keep studying and practicing, you can do it!</source>
+        <target state="new">There's a lot to work on here. Keep studying and practicing, you can do it!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target state="new">Today</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Translations" xml:space="preserve">
+        <source>Translations</source>
+        <target state="new">Translations</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Translations powered by " xml:space="preserve">
+        <source>Translations powered by </source>
+        <target state="new">Translations powered by </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in the ending range" xml:space="preserve">
+        <source>Type in the ending range</source>
+        <target state="new">Type in the ending range</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in the starting range" xml:space="preserve">
+        <source>Type in the starting range</source>
+        <target state="new">Type in the starting range</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Type in two or more numbers" xml:space="preserve">
+        <source>Type in two or more numbers</source>
+        <target state="new">Type in two or more numbers</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Uni.add-api-key-open-string" xml:space="preserve">
+        <source>Uni.add-api-key-open-string</source>
+        <target state="new">Uni.add-api-key-open-string</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Updates to the AI Language Model Detected!" xml:space="preserve">
+        <source>Updates to the AI Language Model Detected!</source>
+        <target state="new">Updates to the AI Language Model Detected!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version 1.0 (Stable)" xml:space="preserve">
+        <source>Version 1.0 (Stable)</source>
+        <target state="new">Version 1.0 (Stable)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Very good effort! You're doing well, just a few minor improvements needed." xml:space="preserve">
+        <source>Very good effort! You're doing well, just a few minor improvements needed.</source>
+        <target state="new">Very good effort! You're doing well, just a few minor improvements needed.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Warning(s)" xml:space="preserve">
+        <source>Warning(s)</source>
+        <target state="new">Warning(s)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="What's the article link?" xml:space="preserve">
+        <source>What's the article link?</source>
+        <target state="new">What's the article link?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Why did the Soviet Union fail?" xml:space="preserve">
+        <source>Why did the Soviet Union fail?</source>
+        <target state="new">Why did the Soviet Union fail?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="YOU GOT " xml:space="preserve">
+        <source>YOU GOT </source>
+        <target state="new">YOU GOT </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You're Offline" xml:space="preserve">
+        <source>You're Offline</source>
+        <target state="new">You're Offline</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You're not connected to the internet!" xml:space="preserve">
+        <source>You're not connected to the internet!</source>
+        <target state="new">You're not connected to the internet!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!" xml:space="preserve">
+        <source>You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!</source>
+        <target state="new">You've made a start, but there's quite a bit to work on. Don't give up, keep practicing!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Answer" xml:space="preserve">
+        <source>Your Answer</source>
+        <target state="new">Your Answer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Answer:" xml:space="preserve">
+        <source>Your Answer:</source>
+        <target state="new">Your Answer:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.&#10;&#10;If you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key." xml:space="preserve">
+        <source>Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.
+
+If you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key.</source>
+        <target state="new">Your OpenAI API Key is stored locally on your iPhone and only used when an AI feature is running.
+
+If you would like to remove your OpenAI API Key, please type in random letters in the text field and it will override the existing key.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Question" xml:space="preserve">
+        <source>Your Question</source>
+        <target state="new">Your Question</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your Results" xml:space="preserve">
+        <source>Your Results</source>
+        <target state="new">Your Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="e" xml:space="preserve">
+        <source>e</source>
+        <target state="new">e</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="g" xml:space="preserve">
+        <source>g</source>
+        <target state="new">g</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="l" xml:space="preserve">
+        <source>l</source>
+        <target state="new">l</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="o" xml:space="preserve">
+        <source>o</source>
+        <target state="new">o</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sk-test-12345A..." xml:space="preserve">
+        <source>sk-test-12345A...</source>
+        <target state="new">sk-test-12345A...</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="🇲🇲 Translated to Burmese" xml:space="preserve">
+        <source>🇲🇲 Translated to Burmese</source>
+        <target state="new">🇲🇲 Translated to Burmese</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
