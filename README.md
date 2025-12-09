@@ -10,6 +10,12 @@ Easily ask questions with AI.
 ## Bad Handwriting Detector
 If the content you're studying has bad handwriting or is hard to read, just scan it in ShortSum and ShortSum will try its best to extract the text from the content and will summarize it for you.
 
+## Multi-Language Support
+ShortSum supports multiple languages. Choose the language that you're studying in, scan it, and ShortSum will read it for you, translate it into English so that ChatGPT can read, and will give the summarized results back in the language you've chosen.
+
+### Burmese support for the user interface
+ShortSum is one of the few apps that have their user interface designed and built to support the Burmese language.
+
 ## Other Features
 ### Recheck
 Retest your knowledge by typing in the original question and your answer, and AI will check it for you!
