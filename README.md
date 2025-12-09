@@ -30,6 +30,9 @@ Search for images with Google.
 ### Completely free and open source
 ShortSum is completely free to use and open source.
 
+### Built for iPhones and iPads
+ShortSum is designed and built in SwiftUI so that the app feels and functions like a native iOS/iPad OS app.
+
 ### Privacy first, your data is safe
 ShortSum does not collect any data, and API keys are stored locally.
 
