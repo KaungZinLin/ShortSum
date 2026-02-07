@@ -1,6 +1,9 @@
 # ShortSum
 An app that makes studying easier and faster by summarzing content with AI.
 
+## Maintenance Notice
+ShortSum is no longer maintained. As I've shifted my focus on SuperScan with my recently learned basic Flutter skills. I've also planned to implement some of the AI features in ShortSum to SuperScan.
+
 ## Image Summarizer
 You can easily scan an image of your textbook or the content you're studying, and ShortSum will automatically extract the text using OCR and generate a summary with AI.
 
